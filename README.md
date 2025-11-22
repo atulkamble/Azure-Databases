@@ -112,7 +112,9 @@ define('DB_HOST','mysql-demo.mysql.database.azure.com');
 * **Flexible Server** = high availability + private VNet access.
 * Supports **logical replication** for analytics.
 
-### 🎯 **Use Case:** Analytics Web App (Django + PostgreSQL)
+### 🎯 **Use Case:** Analytics Web App (Django + PostgreSQL) 
+
+[Code](https://github.com/atulkamble/flask-azure-sql-inventory-app#)
 
 #### ⚙️ **Django Config**
 
