@@ -38,7 +38,7 @@ This version adds **important Azure interview points**, **practical theory**, **
 * Models: **DTU** (Basic, Standard, Premium) or **vCore** (GP, BC, Hyperscale).
 * Encryption: **TDE enabled by default**.
 
-### 🎯 **Use Case:** Inventory Management App (Flask + Azure SQL)
+### 🎯 **Use Case:** Inventory Management App (Flask + Azure SQL) [Code](https://github.com/atulkamble/flask-azure-sql-inventory-app#)
 
 #### 💻 **Python Mini Project**
 
@@ -113,8 +113,6 @@ define('DB_HOST','mysql-demo.mysql.database.azure.com');
 * Supports **logical replication** for analytics.
 
 ### 🎯 **Use Case:** Analytics Web App (Django + PostgreSQL) 
-
-[Code](https://github.com/atulkamble/flask-azure-sql-inventory-app#)
 
 #### ⚙️ **Django Config**
 
