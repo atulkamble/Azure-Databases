@@ -1,9 +1,3 @@
-# 📘 **Azure Database Services – Theory, Projects, & Interview Notes (Full Practical Guide)**
-
-This version adds **important Azure interview points**, **practical theory**, **real-world use cases**, and **sample mini projects** with CLI/Terraform — ideal for both **learning and interview prep**.
-
----
-
 # ☁️ **Azure Database Services – Complete Hands-On + Interview Guide**
 
 ---
